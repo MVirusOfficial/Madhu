@@ -16,8 +16,7 @@ printf " \e[33;1m┃┃┃┃┃┃╭╮┃╰╯┃┃┃┃╰╯┃┃┃┃
 printf " \e[33;1m╰╯╰╯╰┻╯╰┻━━┻╯╰┻━━┻╯╰╯╰╯╱╰╯╰┻╯╰━━┻━━╯\e[0m\n"
 printf " \n"
 printf " \n"
-printf " \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by htr-tech (tahmid.rayat)\e[0m\n"
-printf " \n"
+
 printf " \e[36;1m.:.Select Any Attack for your Victim.:.\e[0m\n"
 printf " \n"
 }
